@@ -1,0 +1,4 @@
+group	label	showSelected1
+1	Cluster 100: 19/141 pixels shown, logFC -0.5 to 0.3, log10(p) 0.0 to 2.4	100
+1	Cluster 170: 16/24 pixels shown, logFC -0.2 to 0.1, log10(p) 0.1 to 2.0	170
+1	Cluster 840: 1/27 pixels shown, logFC -0.1 to 0.1, log10(p) 0.0 to 0.9	840
